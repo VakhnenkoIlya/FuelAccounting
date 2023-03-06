@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuelAccounting", "FuelAccounting\FuelAccounting.csproj", "{7A72931A-7850-4129-A63B-887A65702AFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuelControl", "FuelControl\FuelControl.csproj", "{B8FF1B79-4A53-428A-BE21-F80AB9DC3557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A72931A-7850-4129-A63B-887A65702AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A72931A-7850-4129-A63B-887A65702AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A72931A-7850-4129-A63B-887A65702AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A72931A-7850-4129-A63B-887A65702AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8FF1B79-4A53-428A-BE21-F80AB9DC3557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FF1B79-4A53-428A-BE21-F80AB9DC3557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FF1B79-4A53-428A-BE21-F80AB9DC3557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FF1B79-4A53-428A-BE21-F80AB9DC3557}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DA4D068-BEB8-471F-84D2-CB66BB1F46D3}
+	EndGlobalSection
+EndGlobal
